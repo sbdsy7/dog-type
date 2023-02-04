@@ -1,0 +1,7 @@
+0 1.Basenji-tr
+1 2.Chihuahua-tr
+2 3.Corgi-tr
+3 4.Boston Terrier-t...
+4 5.Doberman-tr
+5 6.French Bulldog-t...
+6 7.mini
